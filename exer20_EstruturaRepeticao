@@ -1,0 +1,17 @@
+# Estruturas de Repetição           Ctrl + C - pára loop infinito
+
+# x = 0
+# while x <= 10:
+#    print(x)
+#    x += 1   # x = x + 1
+    
+from os import system
+system('cls')
+
+multiplicador = int(input('Digite qual tabuada você deseja: '))
+
+x = 1
+while x <= 10:
+    print(f'{multiplicador} x {x} = {multiplicador * x}')
+    x += 1
+
