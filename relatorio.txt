@@ -208,3 +208,7 @@ Produtos
             
 
 
+************************************ Resumo ************************************
+
+                                                       Total de Categorias:    8
+                                                         Total de produtos:   77
