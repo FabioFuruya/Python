@@ -35,5 +35,3 @@ print("QTD Class: 'SubtituloGrafico subtituloGraticoValor':",len(valores))
 for valor in valores:
     print(valor.text)
 
-# link Extrair dados:
-# https://www.imdb.com/search/title/?release_date=2020-01-01,2020-12-31&sort=user_rating,desc
